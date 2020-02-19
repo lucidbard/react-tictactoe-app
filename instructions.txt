@@ -1,0 +1,8 @@
+# NOT IN MY CLASS REPOSITORY
+mkdir react-tictactoe-app
+cd react-tictactoe-app/
+git init
+npx create-react-app .
+# Set private to false in package.json
+npm start
+# Share port 3000 on LiveShare if working with partner
